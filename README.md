@@ -1,0 +1,1 @@
+# flowise-slack-assistant
